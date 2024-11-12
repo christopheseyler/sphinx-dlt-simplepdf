@@ -12,13 +12,19 @@ table.ssp-table-wrap {
 table.docutils {
     width: 100%;
     max-width: 100%;
-    margin-bottom: 1rem;
+    margin-bottom: 0;
     background-color: transparent;
     border-spacing: 0;
 
     td, th {
-        padding: .75rem;
+        padding-top: .25rem;
+        padding-bottom: .25rem;
         vertical-align: top;
+        p {
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+        
     }
 
     thead {
