@@ -11,3 +11,8 @@ Quickstart
 2. ``make simplepdf`` inside your Sphinx documentation project.
 3. Open your PDF under ``_build/simplepdf``.
 
+
+https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases
+
+
+
